@@ -32,11 +32,6 @@ svg:hover .Italy {
     cursor: pointer;
 }
 
-svg:hover .Italy {
-    fill: #29adb2;
-    transition: o.6s;
-    cursor: pointer;
-}
 
 svg:hover .Bangladesh {
     fill: #29adb2;
